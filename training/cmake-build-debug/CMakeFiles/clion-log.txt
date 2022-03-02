@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Programs\Programs_sem\training Select CMakeLists.txt
