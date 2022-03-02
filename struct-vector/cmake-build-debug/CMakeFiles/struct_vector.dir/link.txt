@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\struct_vector.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\struct_vector.dir/objects.a @CMakeFiles\struct_vector.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\struct_vector.dir/objects.a -Wl,--no-whole-archive -o struct_vector.exe -Wl,--out-implib,libstruct_vector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\struct_vector.dir\linklibs.rsp

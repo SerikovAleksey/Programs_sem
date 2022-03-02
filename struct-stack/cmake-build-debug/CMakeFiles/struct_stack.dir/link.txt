@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\struct_stack.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\struct_stack.dir/objects.a @CMakeFiles\struct_stack.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\struct_stack.dir/objects.a -Wl,--no-whole-archive -o struct_stack.exe -Wl,--out-implib,libstruct_stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\struct_stack.dir\linklibs.rsp
