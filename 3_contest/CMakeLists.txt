@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.20)
+project(3_contest)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(3_contest main.cpp)
+add_executable(reverse_stroka reverse_stroka.cpp)
+add_executable(reverse_stroka_vecto reverse_stroka_vector.cpp)
+add_executable(bolshe_sred_arifmet bolshe_sred_arifmet.cpp)
+add_executable(transpose_matrix transpose_matrix.cpp)
+add_executable(transpose_matrix_m_n transpose_matrix_m_n.cpp)
+add_executable(transpose_picture transpose_picture.cpp)
+add_executable(max_in_array max_in_array.cpp)
+add_executable(max_in_array_1 max_in_array_1.cpp)
+add_executable(max_stolbec max_stolbec.cpp)
+add_executable(vector_sum vector_sum.cpp)
+add_executable(protoss protoss.cpp)
+add_executable(sort sort.cpp)

@@ -1,0 +1,13 @@
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/6.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/7_contest.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/4.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/do_some_work.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/0.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/1.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/3.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/7.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/8.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/transpose.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/example.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/7_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

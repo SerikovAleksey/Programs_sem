@@ -1,0 +1,10 @@
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/06.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/KR2021.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/01.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/02.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/03.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/04.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/05.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/07.dir
+C:/Programs/KR2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir

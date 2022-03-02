@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\squirrel.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\squirrel.dir/objects.a @CMakeFiles\squirrel.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\squirrel.dir/objects.a -Wl,--no-whole-archive -o squirrel.exe -Wl,--out-implib,libsquirrel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\squirrel.dir\linklibs.rsp

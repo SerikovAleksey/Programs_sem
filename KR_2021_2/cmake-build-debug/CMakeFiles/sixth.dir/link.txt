@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sixth.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\sixth.dir/objects.a @CMakeFiles\sixth.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sixth.dir/objects.a -Wl,--no-whole-archive -o sixth.exe -Wl,--out-implib,libsixth.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sixth.dir\linklibs.rsp

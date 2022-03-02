@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\map_Home_Work_2_.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\map_Home_Work_2_.dir/objects.a @CMakeFiles\map_Home_Work_2_.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\map_Home_Work_2_.dir/objects.a -Wl,--no-whole-archive -o map_Home_Work_2_.exe -Wl,--out-implib,libmap_Home_Work_2_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\map_Home_Work_2_.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\05_interstellar.cpp.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\05_interstellar.cpp.dir/objects.a @CMakeFiles\05_interstellar.cpp.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\05_interstellar.cpp.dir/objects.a -Wl,--no-whole-archive -o 05_interstellar.cpp.exe -Wl,--out-implib,lib05_interstellar.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\05_interstellar.cpp.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sum_of_numbers.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\sum_of_numbers.dir/objects.a @CMakeFiles\sum_of_numbers.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sum_of_numbers.dir/objects.a -Wl,--no-whole-archive -o sum_of_numbers.exe -Wl,--out-implib,libsum_of_numbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sum_of_numbers.dir\linklibs.rsp

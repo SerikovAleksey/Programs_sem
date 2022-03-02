@@ -1,0 +1,15 @@
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/transpose_matrix_m_n.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/3_contest.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/reverse_stroka.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/reverse_stroka_vecto.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/transpose_matrix.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/bolshe_sred_arifmet.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/transpose_picture.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/protoss.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/max_in_array.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/max_in_array_1.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/max_stolbec.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/vector_sum.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/sort.dir
+C:/Programs/3_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

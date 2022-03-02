@@ -1,0 +1,8 @@
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/KR2018.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/tetrahedron.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/vector.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/drops.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/squirrel.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/matrix.dir
+C:/Programs/KR2018/cmake-build-debug/CMakeFiles/edit_cache.dir

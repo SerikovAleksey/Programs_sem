@@ -1,0 +1,8 @@
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/5_contest.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/path_1.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/path.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/building_1.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/building.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/5_contest/cmake-build-debug/CMakeFiles/sum.dir

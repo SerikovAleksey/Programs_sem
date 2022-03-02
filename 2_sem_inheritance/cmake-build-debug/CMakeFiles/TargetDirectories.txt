@@ -1,0 +1,6 @@
+C:/Programs/2_sem_inheritance/cmake-build-debug/CMakeFiles/2_sem_.dir
+C:/Programs/2_sem_inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Programs/2_sem_inheritance/cmake-build-debug/CMakeFiles/ZooKeeper.dir
+C:/Programs/2_sem_inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/2_sem_inheritance/cmake-build-debug/CMakeFiles/Material.dir
+C:/Programs/2_sem_inheritance/cmake-build-debug/CMakeFiles/Player.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\amount_chisel.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\amount_chisel.dir/objects.a @CMakeFiles\amount_chisel.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\amount_chisel.dir/objects.a -Wl,--no-whole-archive -o amount_chisel.exe -Wl,--out-implib,libamount_chisel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\amount_chisel.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\get_a_letter.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\get_a_letter.dir/objects.a @CMakeFiles\get_a_letter.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\get_a_letter.dir/objects.a -Wl,--no-whole-archive -o get_a_letter.exe -Wl,--out-implib,libget_a_letter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\get_a_letter.dir\linklibs.rsp

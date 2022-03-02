@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KR2020_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_average::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_average-Debug-c08d517b943799abf689.json",
+					"name" : "01_average",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_div_by_eleven::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_div_by_eleven-Debug-dd0d592cb9819e0e0455.json",
+					"name" : "02_div_by_eleven",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_reviews::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_reviews-Debug-e50d51195c60e45a3563.json",
+					"name" : "03_reviews",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_week::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_week-Debug-b6354bf94788385b9977.json",
+					"name" : "04_week",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_fix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_fix-Debug-88b68592a4849383c13f.json",
+					"name" : "06_fix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KR2020_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KR2020_2-Debug-478031c1d8ae01230e0d.json",
+					"name" : "KR2020_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/KR2020_2/cmake-build-debug",
+		"source" : "C:/Programs/KR2020_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

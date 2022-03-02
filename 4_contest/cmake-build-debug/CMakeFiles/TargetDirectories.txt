@@ -1,0 +1,8 @@
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/search_rec.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/4_contest.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/subtrack_money.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/hatgit.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/amount_money.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/money_hard.dir
+C:/Programs/4_contest/cmake-build-debug/CMakeFiles/edit_cache.dir

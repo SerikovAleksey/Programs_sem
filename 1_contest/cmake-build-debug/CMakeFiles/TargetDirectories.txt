@@ -1,0 +1,17 @@
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/nok.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/kratno_13.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/1_contest.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/simple_chislo.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/max_element.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/pryamougol.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/pustoy_pramougol.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/factorial.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/mnogiteli.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/treugolnik.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/amount_1.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/romb.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/bin.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/bin_1.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/amount_chisel.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/1_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

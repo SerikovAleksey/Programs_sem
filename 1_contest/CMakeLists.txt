@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.20)
+project(1_contest)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1_contest main.cpp)
+add_executable(kratno_13 kratno_13.cpp)
+add_executable(pryamougol pryamougol.cpp)
+add_executable(max_element max_element.cpp)
+add_executable(pustoy_pramougol pustoy_pramougol.cpp)
+add_executable(factorial factorial.cpp)
+add_executable(mnogiteli mnogiteli.cpp)
+add_executable(treugolnik treugolnik.cpp)
+add_executable(amount_1 amount_1.cpp)
+add_executable(simple_chislo simple_chislo.cpp)
+add_executable(romb romb.cpp)
+add_executable(bin bin.cpp)
+add_executable(nok nok.cpp)
+add_executable(bin_1 bin_1.cpp)
+add_executable(amount_chisel amount_chisel.cpp)
+

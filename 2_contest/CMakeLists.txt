@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.20)
+project(contest_2)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(contest_2 main.cpp)
+add_executable(is_simple is_simple.cpp)
+add_executable(sum sum.cpp)
+add_executable(sum_of_numbers sum_of_numbers.cpp)
+add_executable(binary binary.cpp)
+add_executable(factorial factorial.cpp)
+add_executable(fibonacci fibonacci.cpp)
+add_executable(nonacci nonacci.cpp)
+add_executable(is_a_number is_a_number.cpp)
+add_executable(leveling leveling.cpp)
+add_executable(get_a_letter get_a_letter.cpp)
+add_executable(get_a_hexadecimal get_a_hexadecimal.cpp)
+add_executable(get_really_any_hexadecimal get_really_any_hexadecimal.cpp)

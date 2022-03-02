@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\reedcat.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\reedcat.dir/objects.a @CMakeFiles\reedcat.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\reedcat.dir/objects.a -Wl,--no-whole-archive -o reedcat.exe -Wl,--out-implib,libreedcat.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\reedcat.dir\linklibs.rsp

@@ -1,0 +1,9 @@
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/1_sem_2022.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/1.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/h_w_1_sem.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/example.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/happy_train.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/GasHolder.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/SpacePort.dir
+C:/Programs/1_sem_encapsulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

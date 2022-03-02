@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programs/3_sem_inheritance/h_w.cpp
+vector
+-
+iostream
+C:/Programs/3_sem_inheritance/iostream
+cmath
+C:/Programs/3_sem_inheritance/cmath
+

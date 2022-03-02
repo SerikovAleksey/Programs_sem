@@ -1,0 +1,9 @@
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/oddeven.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/rot13.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/copyreverse.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/KR2018_2.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/sensor.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/trajector.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/stepback.dir
+C:/Programs/KR2018_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

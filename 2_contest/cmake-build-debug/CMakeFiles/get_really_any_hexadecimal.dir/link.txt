@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\get_really_any_hexadecimal.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\get_really_any_hexadecimal.dir/objects.a @CMakeFiles\get_really_any_hexadecimal.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\get_really_any_hexadecimal.dir/objects.a -Wl,--no-whole-archive -o get_really_any_hexadecimal.exe -Wl,--out-implib,libget_really_any_hexadecimal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\get_really_any_hexadecimal.dir\linklibs.rsp

@@ -1,0 +1,8 @@
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/KR2020_2.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/03_reviews.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/01_average.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/06_fix.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/02_div_by_eleven.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/04_week.dir
+C:/Programs/KR2020_2/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\09_takemura.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\09_takemura.dir/objects.a @CMakeFiles\09_takemura.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\09_takemura.dir/objects.a -Wl,--no-whole-archive -o 09_takemura.exe -Wl,--out-implib,lib09_takemura.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\09_takemura.dir\linklibs.rsp

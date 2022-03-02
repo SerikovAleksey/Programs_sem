@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4_sem_h_w",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4_sem_h_w::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_sem_h_w-Debug-39091a571b695c7297ef.json",
+					"name" : "4_sem_h_w",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ConvoyManager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConvoyManager-Debug-07976ec1183b92ae1189.json",
+					"name" : "ConvoyManager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Player::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player-Debug-72d594be96085c9ea889.json",
+					"name" : "Player",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Predator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Predator-Debug-fca1e787f5c2d55e6c56.json",
+					"name" : "Predator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h_w::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h_w-Debug-f2df8aed444f4a1c18ea.json",
+					"name" : "h_w",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/4_sem_polymorphism/cmake-build-debug",
+		"source" : "C:/Programs/4_sem_polymorphism"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

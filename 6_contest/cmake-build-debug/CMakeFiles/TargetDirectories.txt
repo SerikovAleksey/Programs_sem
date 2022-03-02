@@ -1,0 +1,13 @@
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/6_contest.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/equal.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/0.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/sum.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/2.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/3.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/sum_elem_array.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/swap_arrays.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/copy_array_reverse.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/get_10_ints.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/equal_9.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/6_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

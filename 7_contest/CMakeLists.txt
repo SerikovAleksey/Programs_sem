@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.20)
+project(7_contest)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(7_contest main.cpp)
+add_executable(do_some_work do_some_work.cpp)
+add_executable(0 0.cpp)
+add_executable(1 1.cpp)
+add_executable(3 3.cpp)
+add_executable(4 4.cpp)
+add_executable(6 6.cpp)
+add_executable(7 7.cpp)
+add_executable(8 8.cpp)
+add_executable(transpose transpose.cpp)
+add_executable(example example.cpp)

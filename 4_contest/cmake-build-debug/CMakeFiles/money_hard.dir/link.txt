@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\money_hard.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\money_hard.dir/objects.a @CMakeFiles\money_hard.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\money_hard.dir/objects.a -Wl,--no-whole-archive -o money_hard.exe -Wl,--out-implib,libmoney_hard.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\money_hard.dir\linklibs.rsp

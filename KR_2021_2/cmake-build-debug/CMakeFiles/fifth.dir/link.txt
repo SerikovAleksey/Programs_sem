@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\fifth.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\fifth.dir/objects.a @CMakeFiles\fifth.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\fifth.dir/objects.a -Wl,--no-whole-archive -o fifth.exe -Wl,--out-implib,libfifth.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fifth.dir\linklibs.rsp

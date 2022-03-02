@@ -1,0 +1,9 @@
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/01_lunar_race.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/05_interstellar.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/03_masseffect.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/06_hadgit.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/04_matrix.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/02_andromeda.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/07_sky.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/KR2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir

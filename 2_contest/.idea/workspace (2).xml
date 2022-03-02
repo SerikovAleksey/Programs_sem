@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="contest_2" targetName="is_a_number" />
+      <config projectName="contest_2" targetName="sum" />
+      <config projectName="contest_2" targetName="contest_2" />
+      <config projectName="contest_2" targetName="leveling" />
+      <config projectName="contest_2" targetName="is_simple" />
+      <config projectName="contest_2" targetName="fibonacci" />
+      <config projectName="contest_2" targetName="get_a_hexadecimal" />
+      <config projectName="contest_2" targetName="factorial" />
+      <config projectName="contest_2" targetName="nonacci" />
+      <config projectName="contest_2" targetName="sum_of_numbers" />
+      <config projectName="contest_2" targetName="get_a_letter" />
+      <config projectName="contest_2" targetName="binary" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82783cf2-2f1f-42e5-9eaa-38b7dd9f8bb1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="1zMsHPSMhcZ0kDjQl7WwQ5Z8mjx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager" selected="CMake Application.contest_2">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="binary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="binary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contest_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="contest_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="contest_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="factorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="factorial">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="fibonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="get_a_hexadecimal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="get_a_hexadecimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="get_a_hexadecimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="get_a_letter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="get_a_letter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="get_a_letter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="get_really_any_hexadecimal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="get_really_any_hexadecimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="get_really_any_hexadecimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_a_number" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="is_a_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="is_a_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_simple" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="is_simple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="is_simple">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leveling" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="leveling" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="leveling">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nonacci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="nonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="nonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="sum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum_of_numbers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest_2" TARGET_NAME="sum_of_numbers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest_2" RUN_TARGET_NAME="sum_of_numbers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.binary" />
+      <item itemvalue="CMake Application.contest_2" />
+      <item itemvalue="CMake Application.factorial" />
+      <item itemvalue="CMake Application.fibonacci" />
+      <item itemvalue="CMake Application.get_a_hexadecimal" />
+      <item itemvalue="CMake Application.get_a_letter" />
+      <item itemvalue="CMake Application.get_really_any_hexadecimal" />
+      <item itemvalue="CMake Application.is_a_number" />
+      <item itemvalue="CMake Application.is_simple" />
+      <item itemvalue="CMake Application.leveling" />
+      <item itemvalue="CMake Application.nonacci" />
+      <item itemvalue="CMake Application.sum" />
+      <item itemvalue="CMake Application.sum_of_numbers" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82783cf2-2f1f-42e5-9eaa-38b7dd9f8bb1" name="Changes" comment="" />
+      <created>1633969202971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633969202971</updated>
+      <workItem from="1633969204603" duration="757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

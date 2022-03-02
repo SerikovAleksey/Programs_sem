@@ -1,0 +1,10 @@
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/dumbell.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/race.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/KR2019.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/goblins.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/cylinders.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/stratrix.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/rabbitrain.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/river.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/KR2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir

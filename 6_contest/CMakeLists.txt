@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.20)
+project(6_contest)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(6_contest main.cpp)
+add_executable(0 0.cpp)
+add_executable(sum sum.cpp)
+add_executable(2 2.cpp)
+add_executable(3 3.cpp)
+add_executable(sum_elem_array sum_elem_array.cpp)
+add_executable(swap_arrays swap_arrays.cpp)
+add_executable(copy_array_reverse copy_array_reverse.cpp)
+add_executable(get_10_ints get_10_ints.cpp)
+add_executable(equal equal.cpp)
+add_executable(equal_9 equal_9.cpp)

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\factorial.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\factorial.dir/objects.a @CMakeFiles\factorial.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\factorial.dir/objects.a -Wl,--no-whole-archive -o factorial.exe -Wl,--out-implib,libfactorial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\factorial.dir\linklibs.rsp
