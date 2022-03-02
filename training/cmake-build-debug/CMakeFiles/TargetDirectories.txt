@@ -1,0 +1,4 @@
+C:/Programs/Programs_sem/training/cmake-build-debug/CMakeFiles/training.dir
+C:/Programs/Programs_sem/training/cmake-build-debug/CMakeFiles/train.dir
+C:/Programs/Programs_sem/training/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/Programs_sem/training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
