@@ -1,0 +1,4 @@
+C:/Programs/Programs_sem/Lessons_2_semester/5_sem_algorithms/cmake-build-debug/CMakeFiles/5_sem_algorithms.dir
+C:/Programs/Programs_sem/Lessons_2_semester/5_sem_algorithms/cmake-build-debug/CMakeFiles/Students.dir
+C:/Programs/Programs_sem/Lessons_2_semester/5_sem_algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/Programs_sem/Lessons_2_semester/5_sem_algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
