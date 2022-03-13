@@ -25,7 +25,7 @@ class ExceptionToLowAmountPetrol : public std::exception {
 public:
     ExceptionToLowAmountPetrol(unsigned size, unsigned n){
         std::stringstream ss;
-        ss << "This petrol station have only " << size  << " liters of gas" << std::endl << "You don't can refuel " << n << " liters" ;
+        ss << "This petrol station have only " << size  << " liters of gas" << std::endl << "You can't refuel " << n << " liters" ;
         massage = ss.str();
     }
 
