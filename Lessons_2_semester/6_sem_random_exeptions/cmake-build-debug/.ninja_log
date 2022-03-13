@@ -1,0 +1,26 @@
+# ninja log v5
+530	694	6688881969099146	6_sem_random_exeptions.exe	dca6b2689a5116f6
+1	524	6688881967378691	CMakeFiles/6_sem_random_exeptions.dir/main.cpp.obj	1ac3ab8b9b0728
+6	388	6688913438251132	build.ninja	37ab995a05def7d1
+3	854	6688899665393452	CMakeFiles/exception.dir/exception.cpp.obj	233893075f9956ef
+854	977	6688899666605823	exception.exe	3495848d12497259
+1	584	6688922730534854	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+585	723	6688922731885255	petrol_station.exe	12dd9dfb273bb394
+3	361	6688925127777167	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+366	468	6688925128828110	petrol_station.exe	12dd9dfb273bb394
+3	375	6688926195932058	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+375	478	6688926196939602	petrol_station.exe	12dd9dfb273bb394
+3	366	6688927708671791	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+366	470	6688927709716707	petrol_station.exe	12dd9dfb273bb394
+2	360	6688927783450644	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+360	461	6688927784443507	petrol_station.exe	12dd9dfb273bb394
+2	380	6688928655928130	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+380	511	6688928657258421	petrol_station.exe	12dd9dfb273bb394
+3	357	6688929446801986	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+357	470	6688929447896952	petrol_station.exe	12dd9dfb273bb394
+2	359	6688930070492478	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+359	472	6688930071582661	petrol_station.exe	12dd9dfb273bb394
+3	366	6688932007747836	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+366	475	6688932008812705	petrol_station.exe	12dd9dfb273bb394
+3	374	6688933317641974	CMakeFiles/petrol_station.dir/petrol_station.cpp.obj	e9a2bf8db4125081
+375	483	6688933318703472	petrol_station.exe	12dd9dfb273bb394
