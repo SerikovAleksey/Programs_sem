@@ -1,0 +1,9 @@
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/7_sem_parallel.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/Vector2D.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/get_min_value.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/timer.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/LMT.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/check_them.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/h_w.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/Programs_sem/Lessons_2_semester/7_sem_parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
