@@ -11,20 +11,20 @@ public:
         std::cout << "Time is " <<std::chrono::duration_cast<Duration>
                 (std::chrono::steady_clock::now() - begin).count() -
                   std::chrono::duration_cast<Duration>
-                          (cont - pau).count()
+                          (continue_point - pause_point).count()
                           << std::endl;
     }
     auto pause(){
-        pau = std::chrono::steady_clock::now();
+        pause_point = std::chrono::steady_clock::now();
     }
     auto continue_time(){
-        cont = std::chrono::steady_clock::now();
+        continue_point = std::chrono::steady_clock::now();
     }
 private:
     std::chrono::steady_clock::time_point begin;
 //    Добавил две переменные
-    std::chrono::steady_clock::time_point pau;
-    std::chrono::steady_clock::time_point cont;
+    std::chrono::steady_clock::time_point pause_point;
+    std::chrono::steady_clock::time_point continue_point;
 };
 
 int main() {
