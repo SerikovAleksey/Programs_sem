@@ -1,0 +1,4 @@
+C:/Programs/Programs_sem/Lessons_2_semester/9_sem_practice/cmake-build-debug/CMakeFiles/9_sem_practice.dir
+C:/Programs/Programs_sem/Lessons_2_semester/9_sem_practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programs/Programs_sem/Lessons_2_semester/9_sem_practice/cmake-build-debug/CMakeFiles/practice.dir
+C:/Programs/Programs_sem/Lessons_2_semester/9_sem_practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

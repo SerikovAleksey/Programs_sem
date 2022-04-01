@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LMS_STL_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Animals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animals-Debug-2f2aa9a0931a7d46e815.json",
+					"name" : "Animals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LMS_STL_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LMS_STL_2-Debug-b7fab1c827e1e325fd37.json",
+					"name" : "LMS_STL_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Session_Manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Session_Manager-Debug-cd24fd30c19ec1dd7a0f.json",
+					"name" : "Session_Manager",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_2/cmake-build-debug",
+		"source" : "C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

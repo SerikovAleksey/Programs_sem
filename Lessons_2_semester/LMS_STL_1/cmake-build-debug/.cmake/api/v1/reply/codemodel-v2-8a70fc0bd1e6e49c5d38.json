@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LMS_STL_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Analysis_Load::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Analysis_Load-Debug-808b616aa051853a9b7a.json",
+					"name" : "Analysis_Load",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LMS_STL_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LMS_STL_1-Debug-f6cc9c8f0d506279854c.json",
+					"name" : "LMS_STL_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Person::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Person-Debug-6c5d98c7951f1008a954.json",
+					"name" : "Person",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Results_Table::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Results_Table-Debug-379dbc9505babdc65403.json",
+					"name" : "Results_Table",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_1/cmake-build-debug",
+		"source" : "C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

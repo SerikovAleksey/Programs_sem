@@ -1,0 +1,5 @@
+# ninja log v5
+0	541	6705021726875183	CMakeFiles/LMS_STL_2.dir/main.cpp.obj	386bd8016d9c1842
+544	723	6705021728675411	LMS_STL_2.exe	46c2b454739a6e4c
+0	1065	6705078832279908	CMakeFiles/Session_Manager.dir/Session_Manager.cpp.obj	8b0d515c575c43a0
+1066	1338	6705078834960678	Session_Manager.exe	b829e33ece40d084
