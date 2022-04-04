@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -43,6 +45,13 @@
 					"id" : "9_sem_practice::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-9_sem_practice-Debug-094ae4519bdaf393ea45.json",
 					"name" : "9_sem_practice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h_w::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h_w-Debug-a82e7d70614c95c5375e.json",
+					"name" : "h_w",
 					"projectIndex" : 0
 				},
 				{

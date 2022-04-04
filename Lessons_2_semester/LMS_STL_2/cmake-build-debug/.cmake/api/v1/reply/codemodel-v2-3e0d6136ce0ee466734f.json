@@ -17,7 +17,10 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4,
+						5
 					]
 				}
 			],
@@ -34,7 +37,10 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4,
+						5
 					]
 				}
 			],
@@ -49,6 +55,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Connection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Connection-Debug-f4d9c58fd3e032548a7f.json",
+					"name" : "Connection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "LMS_STL_2::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-LMS_STL_2-Debug-b7fab1c827e1e325fd37.json",
 					"name" : "LMS_STL_2",
@@ -59,6 +72,20 @@
 					"id" : "Session_Manager::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Session_Manager-Debug-cd24fd30c19ec1dd7a0f.json",
 					"name" : "Session_Manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Telemetry_Controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Telemetry_Controller-Debug-7597bec82aeb654b6845.json",
+					"name" : "Telemetry_Controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tracker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tracker-Debug-c62354b26cc8eea10bb6.json",
+					"name" : "Tracker",
 					"projectIndex" : 0
 				}
 			]

@@ -139,6 +139,105 @@ build Session_Manager.exe: CXX_EXECUTABLE_LINKER__Session_Manager_Debug CMakeFil
   TARGET_IMPLIB = libSession_Manager.dll.a
   TARGET_PDB = Session_Manager.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Tracker
+
+
+#############################################
+# Order-only phony target for Tracker
+
+build cmake_object_order_depends_target_Tracker: phony || CMakeFiles/Tracker.dir
+
+build CMakeFiles/Tracker.dir/Tracker.cpp.obj: CXX_COMPILER__Tracker_Debug C$:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_2/Tracker.cpp || cmake_object_order_depends_target_Tracker
+  DEP_FILE = CMakeFiles\Tracker.dir\Tracker.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Tracker.dir
+  OBJECT_FILE_DIR = CMakeFiles\Tracker.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Tracker
+
+
+#############################################
+# Link the executable Tracker.exe
+
+build Tracker.exe: CXX_EXECUTABLE_LINKER__Tracker_Debug CMakeFiles/Tracker.dir/Tracker.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Tracker.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Tracker.exe
+  TARGET_IMPLIB = libTracker.dll.a
+  TARGET_PDB = Tracker.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Connection
+
+
+#############################################
+# Order-only phony target for Connection
+
+build cmake_object_order_depends_target_Connection: phony || CMakeFiles/Connection.dir
+
+build CMakeFiles/Connection.dir/Connection.cpp.obj: CXX_COMPILER__Connection_Debug C$:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_2/Connection.cpp || cmake_object_order_depends_target_Connection
+  DEP_FILE = CMakeFiles\Connection.dir\Connection.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Connection.dir
+  OBJECT_FILE_DIR = CMakeFiles\Connection.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Connection
+
+
+#############################################
+# Link the executable Connection.exe
+
+build Connection.exe: CXX_EXECUTABLE_LINKER__Connection_Debug CMakeFiles/Connection.dir/Connection.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Connection.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Connection.exe
+  TARGET_IMPLIB = libConnection.dll.a
+  TARGET_PDB = Connection.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Telemetry_Controller
+
+
+#############################################
+# Order-only phony target for Telemetry_Controller
+
+build cmake_object_order_depends_target_Telemetry_Controller: phony || CMakeFiles/Telemetry_Controller.dir
+
+build CMakeFiles/Telemetry_Controller.dir/Telemetry_Controller.cpp.obj: CXX_COMPILER__Telemetry_Controller_Debug C$:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_2/Telemetry_Controller.cpp || cmake_object_order_depends_target_Telemetry_Controller
+  DEP_FILE = CMakeFiles\Telemetry_Controller.dir\Telemetry_Controller.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Telemetry_Controller.dir
+  OBJECT_FILE_DIR = CMakeFiles\Telemetry_Controller.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Telemetry_Controller
+
+
+#############################################
+# Link the executable Telemetry_Controller.exe
+
+build Telemetry_Controller.exe: CXX_EXECUTABLE_LINKER__Telemetry_Controller_Debug CMakeFiles/Telemetry_Controller.dir/Telemetry_Controller.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Telemetry_Controller.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Telemetry_Controller.exe
+  TARGET_IMPLIB = libTelemetry_Controller.dll.a
+  TARGET_PDB = Telemetry_Controller.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -167,9 +266,15 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build Animals: phony Animals.exe
 
+build Connection: phony Connection.exe
+
 build LMS_STL_2: phony LMS_STL_2.exe
 
 build Session_Manager: phony Session_Manager.exe
+
+build Telemetry_Controller: phony Telemetry_Controller.exe
+
+build Tracker: phony Tracker.exe
 
 # =============================================================================
 # Folder targets.
@@ -179,7 +284,7 @@ build Session_Manager: phony Session_Manager.exe
 #############################################
 # Folder: C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_2/cmake-build-debug
 
-build all: phony LMS_STL_2.exe Animals.exe Session_Manager.exe
+build all: phony LMS_STL_2.exe Animals.exe Session_Manager.exe Tracker.exe Connection.exe Telemetry_Controller.exe
 
 # =============================================================================
 # Built-in targets

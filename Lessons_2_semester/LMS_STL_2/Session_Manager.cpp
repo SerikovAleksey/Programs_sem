@@ -17,8 +17,6 @@ public:
     // падать при этом не нужно.
     void logout(const std::string& username){
         if (names.find(username) != std::end(names))names.erase(username);
-        int i = 0u;
-        i++;
     }
 
     // Сколько сейчас пользователей залогинено.

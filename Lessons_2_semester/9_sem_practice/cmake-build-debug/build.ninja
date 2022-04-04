@@ -130,9 +130,44 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Object build statements for EXECUTABLE target h_w
+
+
+#############################################
+# Order-only phony target for h_w
+
+build cmake_object_order_depends_target_h_w: phony || CMakeFiles/h_w.dir
+
+build CMakeFiles/h_w.dir/h_w.cpp.obj: CXX_COMPILER__h_w_Debug C$:/Programs/Programs_sem/Lessons_2_semester/9_sem_practice/h_w.cpp || cmake_object_order_depends_target_h_w
+  DEP_FILE = CMakeFiles\h_w.dir\h_w.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\h_w.dir
+  OBJECT_FILE_DIR = CMakeFiles\h_w.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target h_w
+
+
+#############################################
+# Link the executable h_w.exe
+
+build h_w.exe: CXX_EXECUTABLE_LINKER__h_w_Debug CMakeFiles/h_w.dir/h_w.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\h_w.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = h_w.exe
+  TARGET_IMPLIB = libh_w.dll.a
+  TARGET_PDB = h_w.exe.dbg
+
+# =============================================================================
 # Target aliases.
 
 build 9_sem_practice: phony 9_sem_practice.exe
+
+build h_w: phony h_w.exe
 
 build practice: phony practice.exe
 
@@ -144,7 +179,7 @@ build practice: phony practice.exe
 #############################################
 # Folder: C:/Programs/Programs_sem/Lessons_2_semester/9_sem_practice/cmake-build-debug
 
-build all: phony 9_sem_practice.exe practice.exe
+build all: phony 9_sem_practice.exe practice.exe h_w.exe
 
 # =============================================================================
 # Built-in targets
