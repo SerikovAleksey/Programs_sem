@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LMS_STL_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LMS_STL_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LMS_STL_3-Debug-12cd9ceb7211558724b5.json",
+					"name" : "LMS_STL_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "comparison_sequences::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-comparison_sequences-Debug-9e1b5faaebc4c7ce5d12.json",
+					"name" : "comparison_sequences",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "delete_elem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-delete_elem-Debug-39f566af978b32652c48.json",
+					"name" : "delete_elem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex-Debug-5fb1dcba76099e7eec86.json",
+					"name" : "ex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "intersection_sequences::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intersection_sequences-Debug-7ccb67828b878761afa5.json",
+					"name" : "intersection_sequences",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "odd_even_num::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-odd_even_num-Debug-8688789ca8fe7997aca9.json",
+					"name" : "odd_even_num",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "revers_sequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-revers_sequence-Debug-5036e86df86142e0295a.json",
+					"name" : "revers_sequence",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_3/cmake-build-debug",
+		"source" : "C:/Programs/Programs_sem/Lessons_2_semester/LMS_STL_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

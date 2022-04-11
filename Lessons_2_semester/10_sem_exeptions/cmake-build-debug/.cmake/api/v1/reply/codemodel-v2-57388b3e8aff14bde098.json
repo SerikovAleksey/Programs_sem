@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "10_sem_exeptions",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "10_sem_exeptions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_sem_exeptions-Debug-d6c63a343c50f326575f.json",
+					"name" : "10_sem_exeptions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "class_fraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-class_fraction-Debug-6d28cf02de37176f3da7.json",
+					"name" : "class_fraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h_w::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h_w-Debug-39b16b447a16a59b7d2d.json",
+					"name" : "h_w",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_max_elem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_max_elem-Debug-3d1e6ce7bb926cac8a53.json",
+					"name" : "second_max_elem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/Programs_sem/Lessons_2_semester/10_sem_exeptions/cmake-build-debug",
+		"source" : "C:/Programs/Programs_sem/Lessons_2_semester/10_sem_exeptions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

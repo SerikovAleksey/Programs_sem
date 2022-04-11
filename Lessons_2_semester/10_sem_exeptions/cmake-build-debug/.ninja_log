@@ -1,0 +1,14 @@
+# ninja log v5
+2	462	6714105055195351	CMakeFiles/class_fraction.dir/class_fraction.cpp.obj	3d9e0eab9279bf30
+5	1284	6713626902385866	CMakeFiles/10_sem_exeptions.dir/main.cpp.obj	2b1d4078ba477712
+2001	2502	6713767695289658	second_max_elem.exe	da94ea3ad6f2a779
+9	2000	6713767690289344	CMakeFiles/second_max_elem.dir/second_max_elem.cpp.obj	cecc626d959d39fe
+0	142	6713615930698434	CMakeFiles/h_w.dir/h_w.cpp.obj	d137ff4f4e4708c0
+1285	1476	6713626904265839	10_sem_exeptions.exe	28126cf857c43aec
+463	591	6714105056289178	class_fraction.exe	86fd496bc3fa9487
+3	453	6714106878717808	CMakeFiles/class_fraction.dir/class_fraction.cpp.obj	3d9e0eab9279bf30
+454	578	6714106879968023	class_fraction.exe	86fd496bc3fa9487
+2	447	6714107118131917	CMakeFiles/class_fraction.dir/class_fraction.cpp.obj	3d9e0eab9279bf30
+448	565	6714107119225765	class_fraction.exe	86fd496bc3fa9487
+2	459	6714107479379899	CMakeFiles/class_fraction.dir/class_fraction.cpp.obj	3d9e0eab9279bf30
+459	589	6714107480629977	class_fraction.exe	86fd496bc3fa9487
