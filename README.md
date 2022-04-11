@@ -14,3 +14,4 @@ There is a code from the lessons C++ of the first and second semesters of 2021 -
 - [X] [№5](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/6_sem_random_exeptions)
 - [X] [№6](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/7_sem_parallel)
 - [X] [№7](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/9_sem_practice) ([LMS](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/LMS_STL_2))
+- [ ] [№8](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/10_sem_exeptions) ([LMS](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/LMS_STL_3)) NEW!💥
