@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <map>
+#include <algorithm>
 
 // Класс исключений для неправильного знака деления
 class not_right_symbol_division : public std::exception{
@@ -122,12 +123,39 @@ std::ostream& operator<<(std::ostream& os, const Rational& fraction){
 std::istream& operator>>(std::istream& is, Rational& fraction){
     std::string frac;
     std::getline(is, frac);
-    if (frac[1] != 47) throw not_right_symbol_division("You should use a symbol division - '/' ");
-    fraction.set_numerator(frac[0] - '0');
-    fraction.set_denominator(frac[2] - '0');
-    if (frac[2] - '0' == 0) {
-        throw cannot_divide_by_zero("You can't divide by zero");
+//    Создал переменную, чтобы отследить знак деления
+    int check_symbol_didsion = 0;
+//    Проверка на знак деления
+    for (auto elem: frac) {
+        if (elem == 47){
+            check_symbol_didsion++;
+        }
     }
+//    Выбрасываю исключение
+    if(check_symbol_didsion != 1) throw not_right_symbol_division("You should use a symbol division - '/' ");
+//    Создаю дробь
+    std::string num;
+    for (auto item: frac) {
+     if (item == 47){
+         break;
+     }
+         num.push_back(item);
+    }
+//    Числитель
+    auto numerator = std::stoi(num);
+    fraction.set_numerator(numerator);
+
+    std::string den;
+    std::reverse(std::begin(frac), std::end(frac));
+    for (auto item: frac) {
+        if (item == 47){
+            break;
+        }
+        den.push_back(item);
+    }
+//    Знаменатель
+    auto denominator = std::stoi(den);
+    fraction.set_denominator(denominator);
     return is;
 }
 
@@ -148,7 +176,6 @@ int main()
     std::cin >> c;
     double s = c;
     cout << c << endl;
-    cout << s << endl;
     cout << a << endl;
     cout << b << endl;
     cout << a + b << endl;
