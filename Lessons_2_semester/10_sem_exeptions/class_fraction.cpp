@@ -117,6 +117,10 @@ private:
 
 //Вывод дроби
 std::ostream& operator<<(std::ostream& os, const Rational& fraction){
+//    Проверка на возможность сокращения дроби до целого числа
+    if (fraction.get_numerator() % fraction.get_denominator() == 0) {
+        return os << fraction.get_numerator() / fraction.get_denominator();
+    }
     return os << fraction.get_numerator() << "/" << fraction.get_denominator();
 }
 //Ввод дроби
@@ -156,6 +160,8 @@ std::istream& operator>>(std::istream& is, Rational& fraction){
 //    Знаменатель
     auto denominator = std::stoi(den);
     fraction.set_denominator(denominator);
+
+    fraction.reduction_of_fraction(fraction);
     return is;
 }
 
