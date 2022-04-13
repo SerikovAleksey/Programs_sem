@@ -56,9 +56,9 @@ public:
      */
     void print_standings() const {
 //        создаю новую map-у, чтобы сначала были оценки, чтобы map-а сама отсортировала их:
-       std::map<unsigned, std::string> new_map;
-       for (auto const& it: students) {
-           new_map[it.second] = it.first;
+       std::multimap<unsigned, std::string> new_map;
+       for (auto it = std::begin(students); it != std::end(students); it++) {
+           new_map.insert(std::make_pair(it->second, it->first));
        }
 //       вывожу в обратном порядке, так как нужно по возрастанию:
         for (auto it = std::rbegin(new_map); it != std::rend(new_map); it++) {
