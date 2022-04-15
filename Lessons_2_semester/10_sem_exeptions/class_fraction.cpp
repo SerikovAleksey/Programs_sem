@@ -56,56 +56,56 @@ public:
         }
     }
 //    Упрощение дроби
-    Rational reduction_of_fraction(Rational& frac) {
+    Rational reduction_of_fraction() {
         for (auto i = 2; i < 10; i++) {
-            if (frac.get_numerator() % i == 0 && frac.get_denominator() % i == 0) {
+            if (this->get_numerator() % i == 0 && this->get_denominator() % i == 0) {
 //                std::cout << i << " " << frac.get_numerator() << " " << frac.get_denominator()%i;
-                frac.set_numerator(frac.get_numerator()/i) ;
-                frac.set_denominator(frac.get_denominator()/i);
+                this->set_numerator(this->get_numerator()/i) ;
+                this->set_denominator(this->get_denominator()/i);
                 break;
             }
         }
-        return frac;
+        return *this;
     }
 
 //    Оператор приведения типа класса к double
-    operator double() const {
-        return (numerator/denominator);
+    explicit operator double() const {
+        return (numerator * 1.)/denominator;
     }
     // - сложения двух дробей
     Rational operator+(Rational other) {
         Rational result_addition;
         result_addition.numerator = this->numerator * other.denominator + other.numerator * this->denominator;
         result_addition.denominator = this->denominator * other.denominator;
-        return reduction_of_fraction(result_addition);
+        return reduction_of_fraction();
     }
     // - вычитания двух дробей
     Rational operator-(Rational other) {
         Rational result_subtraction;
         result_subtraction.numerator = this->numerator * other.denominator - other.numerator * this->denominator;
         result_subtraction.denominator = this->denominator * other.denominator;
-        return reduction_of_fraction(result_subtraction);
+        return reduction_of_fraction();
     }
     // - умножения двух дробей
     Rational operator*(Rational other) {
         Rational result_multiplication;
         result_multiplication.numerator = this->numerator * other.numerator;
         result_multiplication.denominator = this->denominator * other.denominator;
-        return reduction_of_fraction(result_multiplication);
+        return reduction_of_fraction();
     }
     // - деления двух дробей
     Rational operator/(Rational other) {
         Rational result_division;
         result_division.numerator = this->numerator * other.denominator;
         result_division.denominator = this->denominator * other.numerator;
-        return reduction_of_fraction(result_division);
+        return reduction_of_fraction();
     }
     // - умножения дроби на целое число (должно работать при любом порядке операндов)
     Rational operator*(int number) {
         Rational result_multiplication_by_int;
         result_multiplication_by_int.numerator = this->numerator * number;
         result_multiplication_by_int.denominator = this->denominator;
-        return reduction_of_fraction(result_multiplication_by_int);
+        return reduction_of_fraction();
     }
 //    Операторы вывода и ввода
     friend std::ostream& operator<<(std::ostream& , const Rational&);
@@ -161,7 +161,7 @@ std::istream& operator>>(std::istream& is, Rational& fraction){
     auto denominator = std::stoi(den);
     fraction.set_denominator(denominator);
 
-    fraction.reduction_of_fraction(fraction);
+    fraction.reduction_of_fraction();
     return is;
 }
 
@@ -170,7 +170,7 @@ Rational operator*(int number, Rational& fraction) {
     Rational result_multiplication;
     result_multiplication.set_numerator(number * fraction.get_numerator());
     result_multiplication.set_denominator(fraction.get_denominator());
-    return fraction.reduction_of_fraction(result_multiplication);
+    return fraction.reduction_of_fraction();
 }
 using std::cout, std::endl;
 int main()
@@ -180,8 +180,10 @@ int main()
     Rational c;
 
     std::cin >> c;
-    double s = c;
+    double s = double(c);
     cout << c << endl;
+    cout << s << endl;
+
     cout << a << endl;
     cout << b << endl;
     cout << a + b << endl;
