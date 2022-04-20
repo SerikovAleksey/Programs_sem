@@ -125,44 +125,17 @@ std::ostream& operator<<(std::ostream& os, const Rational& fraction){
 }
 //Ввод дроби
 std::istream& operator>>(std::istream& is, Rational& fraction){
-    std::string frac;
-    std::getline(is, frac);
-//    Создал переменную, чтобы отследить знак деления
-    int check_symbol_didsion = 0;
-//    Проверка на знак деления
-    for (auto elem: frac) {
-        if (elem == 47){
-            check_symbol_didsion++;
-        }
+    int numerator, denominator;
+    char symbol;
+    is >> numerator >> symbol >> denominator;
+    std::cout << symbol;
+    if (symbol == 47) {
+        throw not_right_symbol_division("You should use a symbol division - '/' ");
     }
-//    Выбрасываю исключение
-    if(check_symbol_didsion != 1) throw not_right_symbol_division("You should use a symbol division - '/' ");
-//    Создаю дробь
-    std::string num;
-    for (auto item: frac) {
-     if (item == 47){
-         break;
-     }
-         num.push_back(item);
-    }
-//    Числитель
-    auto numerator = std::stoi(num);
     fraction.set_numerator(numerator);
-
-    std::string den;
-    std::reverse(std::begin(frac), std::end(frac));
-    for (auto item: frac) {
-        if (item == 47){
-            break;
-        }
-        den.push_back(item);
-    }
-//    Знаменатель
-    auto denominator = std::stoi(den);
     fraction.set_denominator(denominator);
-
-    fraction.reduction_of_fraction();
     return is;
+
 }
 
 // Оператор умножения слева на число
@@ -183,15 +156,19 @@ int main()
     double s = double(c);
     cout << c << endl;
     cout << s << endl;
-
-    cout << a << endl;
-    cout << b << endl;
-    cout << a + b << endl;
-    cout << a - b << endl;
-    cout << a * b << endl;
-    cout << a / b << endl;
-    cout << 3 * a << endl;
-    cout << b * 4 << endl;
+try
+    {
+        cout << a << endl;
+        cout << b << endl;
+        cout << a + b << endl;
+        cout << a - b << endl;
+        cout << a * b << endl;
+        cout << a / b << endl;
+        cout << 3 * a << endl;
+        cout << b * 4 << endl;
+    }catch (not_right_symbol_division& ex ){
+    std::cout << ex.what() << std::endl;
+}
 
     return 0;
 }
