@@ -36,10 +36,11 @@ public:
      */
     void print_students() const {
 //        map сортирует, поэтому просто вывожу:
-        for (auto const& it: students) {
+        for (auto const &it: students) {
             std::cout << it.first << " " << it.second << std::endl;
+            }
         }
-    }
+
 
     /**
      * Вывести студентов, отсортировав сперва по оценкам по убыванию,
@@ -56,13 +57,19 @@ public:
      */
     void print_standings() const {
 //        создаю новую map-у, чтобы сначала были оценки, чтобы map-а сама отсортировала их:
-       std::multimap<unsigned, std::string> new_map;
-       for (auto it = std::begin(students); it != std::end(students); it++) {
-           new_map.insert(std::make_pair(it->second, it->first));
-       }
+//        здесь я добавил set для значений
+       std::multimap<unsigned, std::set<std::string>> new_map;
+//       заполняю новую map-у
+       for (auto it = std::rbegin(students); it != std::rend(students); it++) {
+           std::set<std::string> iter;
+           iter.insert(it->first);
+               new_map.insert(std::make_pair(it->second, iter));
+           }
 //       вывожу в обратном порядке, так как нужно по возрастанию:
         for (auto it = std::rbegin(new_map); it != std::rend(new_map); it++) {
-            std::cout << it->second << " " << it->first << std::endl;
+            for (auto i: it->second) {
+                std::cout << i << " " << it->first << std::endl;
+            }
         }
     }
 
