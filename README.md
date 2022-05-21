@@ -15,4 +15,4 @@ There is a code from the lessons C++ of the first and second semesters of 2021 -
 - [X] [№6](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/7_sem_parallel) (Parallel)
 - [X] [№7](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/9_sem_practice) (Practice and [LMS](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/LMS_STL_2))
 - [X] [№8](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/10_sem_exeptions) (Revise exeptions and [LMS](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/LMS_STL_3))
-- [X] [№9](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/KR_2021) (Control Work 2021) 💥
+- [X] [№9](https://github.com/SerikovAleksey/Programs_sem/tree/main/Lessons_2_semester/KR_2021) (Control Work 2021) 
